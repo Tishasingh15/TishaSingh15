@@ -9,7 +9,7 @@
 
 - 👩‍💼 Passionate about **Business Intelligence** and using data to drive business decisions.
 
-- 📧 **tishasingh152003@example.com**
+- 📧 **tishasingh152003@gmail.com**
 
 - 📞 **+91 6204670785**
 - <a href="https://linkedin.com/in/tishasingh0515" target="blank">
