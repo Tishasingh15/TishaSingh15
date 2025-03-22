@@ -32,6 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tisha-singh&show_icons=true&locale=en&layout=compact" alt="tisha-singh" /></p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tisha-singh&show_icons=true&locale=en&hide=prs" alt="tisha-singh" />
-</p>
+
 
