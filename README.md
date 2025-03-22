@@ -9,6 +9,8 @@
 
 - 👩‍💼 Passionate about **Business Intelligence** and using data to drive business decisions.
 
+- 📡Skilled in designing and optimizing circuits, communication systems, and signal processing techniques to drive innovation in tech-driven solutions! 
+
 - 📧 **tishasingh152003@gmail.com**
 
 - 📞 **+91 6204670785**
